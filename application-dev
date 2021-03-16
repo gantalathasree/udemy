@@ -1,0 +1,3 @@
+server.port=9898
+limit-Service.minimum=1
+limit-Service.maximum=100
